@@ -1,4 +1,4 @@
-## 🤔I'm not a front-end developer
+## FURRY!!!!!!
 
 ![Mu's github stats](https://github-readme-stats.vercel.app/api?username=Cerbur&hide=commits&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerbur&layout=compact&hide_border=true)

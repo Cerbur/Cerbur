@@ -1,10 +1,10 @@
 ## 🤔I'm not a front-end developer
 
-![Mu's github stats](https://github-readme-stats.vercel.app/api?username=MuZhou233&hide=commits&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuZhou233&layout=compact&hide_border=true)
+![Mu's github stats](https://github-readme-stats.vercel.app/api?username=Cerbur&hide=commits&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerbur&layout=compact&hide_border=true)
 
 <!--
-**MuZhou233/MuZhou233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cerbur/Cerbur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

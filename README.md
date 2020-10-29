@@ -4,10 +4,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerbur&layout=compact&hide_border=true)
 
 [![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()
-[![](https://img.shields.io/badge/macOS-HighSierra-33aadd?style=flat-square&logo=Apple&logoColor=6cf)]()
-[![](https://img.shields.io/badge/Ubuntu-serveer-33aadd?style=flat-square&logo=Ubuntu&logoColor=6cf)]()
+[![](https://img.shields.io/badge/macOS-High%20Sierra-33aadd?style=flat-square&logo=Apple&logoColor=6cf)]()
+[![](https://img.shields.io/badge/Ubuntu-server-33aadd?style=flat-square&logo=Ubuntu&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Intellij%20IDEA-Ultimate-33aadd?style=flat-square&logo=Intellij-IDEA&logoColor=6cf)]()
+[![](https://img.shields.io/badge/Android%20Studio-4.1-33aadd?style=flat-square&logo=Android-Studio&logoColor=6cf)]()
 [![](https://img.shields.io/badge/Java11-007396?style=flat-square&logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/Kotlin-00add8?style=flat-square&logo=go&logoColor=white)]()
 [![](https://img.shields.io/badge/Golang-00add8?style=flat-square&logo=go&logoColor=white)]()
 
 ## Chanel

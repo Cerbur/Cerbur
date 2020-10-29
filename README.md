@@ -1,6 +1,6 @@
 ## FURRY!!!!!!
 
-![Cerbur's github stats](https://github-readme-stats.vercel.app/api?username=Cerbur&show_icons=true&hide_border=true)
+![Cerbur](https://github-readme-stats.vercel.app/api?username=Cerbur&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerbur&layout=compact&hide_border=true)
 
 [![](https://img.shields.io/badge/Windows-10-33aadd?style=flat-square&logo=windows&logoColor=6cf)]()

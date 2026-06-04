@@ -48,7 +48,7 @@
 - Reduced repeated product-pool recalculation triggers by about 95% through stream aggregation.
 - At Shopee, worked on virtual product fulfillment and reduced interface failure rate from 30% to below 0.1%.
 
-## Chanel
+## Channel
 
 [![](https://img.shields.io/badge/bilibili-奶盖犬犬-1DA1F2?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/6059813)
 

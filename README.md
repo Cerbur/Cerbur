@@ -1,8 +1,4 @@
 ## BACKEND!!!!!! SYSTEMS!!!!!! CHAOS BUT STRUCTURED!!!!!!
-
-![Cerbur](https://github-readme-stats.vercel.app/api?username=Cerbur&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerbur&layout=compact&hide_border=true)
-
 [![](https://img.shields.io/badge/Role-Java%20Backend%20Engineer-33aadd?style=flat-square&logo=openjdk&logoColor=white)]()
 [![](https://img.shields.io/badge/MBTI-ENTP-ff69b4?style=flat-square)]()
 [![](https://img.shields.io/badge/Focus-Trading%20Systems-33aadd?style=flat-square)]()
@@ -39,14 +35,6 @@
 - Turning messy business rules into reusable system capabilities.
 - Cache design, hot key handling, async decoupling and eventual consistency.
 - Building systems where complexity stays inside the right boundary.
-
-## Experience Highlights
-
-- Promotion systems for multiple Temu business modes: coupons, discounts, campaigns and regional rollout.
-- Designed active cache flow based on Binlog / DTS to protect core trading queries from hot key and DB pressure.
-- Worked on Sieve, a product-selection system using MQ, HBase, Elasticsearch and Flink.
-- Reduced repeated product-pool recalculation triggers by about 95% through stream aggregation.
-- At Shopee, worked on virtual product fulfillment and reduced interface failure rate from 30% to below 0.1%.
 
 ## Channel
 

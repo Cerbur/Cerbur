@@ -1,7 +1,7 @@
 ## BACKEND!!!!!! SYSTEMS!!!!!! CHAOS BUT STRUCTURED!!!!!!
 
 <p align="center">
-  <img src="./assets/achievement-wall.svg" alt="Cerbur achievement wall" width="100%" />
+  <img src="https://raw.githubusercontent.com/Cerbur/Cerbur/master/assets/achievement-wall.svg" alt="Cerbur achievement wall" width="100%" />
 </p>
 
 ## About
